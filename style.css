@@ -99,3 +99,13 @@
     border: 3px solid var(--Brand-Purple-100, #F1E4FF);
     /* background: lightgray -256.697px -123px / 220.317% 154.831% no-repeat; */
 }
+
+/* client-icon */
+.client-section-area{
+    margin: 100px 230px;
+}
+.client-icon{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
